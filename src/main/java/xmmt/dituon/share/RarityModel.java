@@ -30,7 +30,6 @@ public class RarityModel {
     }
 
     public void setProbability(float percent) {
-        System.out.println(percent);
         this.probability = percent;
     }
 

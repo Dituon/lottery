@@ -9,7 +9,6 @@ import java.awt.image.BufferedImage;
 
 public class Test {
     public static void main(String[] args) {
-//        BufferedImage bufferedImage = RandomCard.createRandom("C:\\Users\\#root.dituon\\Desktop\\data");
         new BaseService();
         BufferedImage bufferedImage = RandomCard.createRandom((short) 10);
 

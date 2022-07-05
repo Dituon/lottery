@@ -6,7 +6,7 @@ import java.io.*;
 import java.util.ArrayList;
 
 public class BaseService {
-    final static String path = "C:\\Users\\#root.dituon\\Desktop\\data";
+    final static String path = "./data/xmmt.dituon.lottery";
     final static ArrayList<RarityModel> rarityList = new ArrayList<>();
     public static short fiveNum = 0;
     public static short fourNum = 0;
